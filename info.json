@@ -1,0 +1,21 @@
+{
+	"name": "Shraddha Anand",
+	"website": "https://loquacious-kringle-81abda.netlify.app/",
+	"linkedin": "https://www.linkedin.com/in/shraddha-anand-680982237/",
+	"github": "https://github.com/sanand100",
+	"email": "Please reach out to me via LinkedIn",
+	"resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django",
+		"Wordpress",
+		"Drupal"
+	],
+	"otherSkills": ["Unagi", "Five Finger Fillet", "Bridge"]
+}
